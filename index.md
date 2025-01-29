@@ -16,7 +16,6 @@
         Сведения о GitHub и Git
         <li><a href="https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">GitHub Pages</a></li>
         ДОКУМЕНТЫ
-        [ПЕРЕЙТИ](Rif.html)
         <li><a href="Rif.html">Project</a></li>
     </ul>
 </body>
