@@ -13,6 +13,7 @@
     <ul>
         <li><a href="https://www.google.com">Google</a></li>
         <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
+        <li><a href="https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
     </ul>
 </body>
 </html>
