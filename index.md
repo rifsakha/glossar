@@ -12,12 +12,9 @@
     <h2>Полезные ссылки</h2>
     <ul>
         <li><a href="https://www.google.com">Google</a></li>
-        
         <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
-        
         Сведения о GitHub и Git
         <li><a href="https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax">GitHub Pages</a></li>
-        
         ДОКУМЕНТЫ
         <li><a href="Rif.html">Project</a></li>
     </ul>
