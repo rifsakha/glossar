@@ -7,8 +7,8 @@
     <h1>Добро пожаловать на мой сайт!</h1>
     <p>Это моя первая веб-страница.</p>
     <h2>Обо мне</h2>
-    <p>Меня зовут Алекс, и я изучаю веб-разработку.</p>
-    <img src="https://example.com/myphoto.jpg" alt="Мое фото">
+    <p>Меня зовут Риф, и я изучаю веб-разработку.</p>
+    <img src="\\tn.tngrp.ru\df\USR\CR\SakhabutdinovRiR\My Documents\index.hml" alt="Print_SCR">
     <h2>Полезные ссылки</h2>
     <ul>
         <li><a href="https://www.google.com">Google</a></li>
